@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm ARIYAN</h1>
+<h3 align="center">A passionate chatbot developer and tech enthusiast from Bangladesh 🇧🇩</h3>
 
-<!--
-**ItsAriyan-X/ItsAriyan-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://giphy.com" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💖 About Me
+
+- 🎀 **Name:** Mohammad Ariyan
+- 🤖 **Expertise:** Messenger ChatBot & GoatBot Script Customization
+- 💻 **Tech Stack:** JavaScript, Node.js, JSON
+- 🌍 **Location:** Bangladesh 🇧🇩
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <img src="https://shields.io" alt="JavaScript"/>
+  <img src="https://shields.io" alt="NodeJS"/>
+  <img src="https://shields.io" alt="GitHub"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" alt="Ariyan's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
