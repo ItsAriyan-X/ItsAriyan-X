@@ -1,5 +1,5 @@
-<h1 align="center">✨ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝕿𝖔 𝕸𝖞 𝖂𝖔𝖗𝖑𝖉 ✨</h1>
-<h2 align="center">🦄 𝙰𝚛𝚒𝚢𝚊𝚗 𝚂𝚊𝚋𝚋𝚒𝚛 🎀</h2>
+<h1 align="center">✨ Welcome To My World ✨</h1>
+<h2 align="center">🦄 Ariyan Sabbir 🎀</h2>
 
 <p align="center">
   <img src="https://herokuapp.com💻+ChatBot+Developer;🚀+Tech+Enthusiast;🔥+Coding+My+Dreams;🇧🇩+Proud+Bangladeshi" alt="Typing SVG" />
@@ -10,18 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Views" />
-</p>
-
----
-
-### 🌐 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎
-
-<p align="center">
   <a href="https://facebook.com" target="_blank">
     <img src="https://shields.io" alt="Facebook 1" />
   </a>
-  <a href="https://www.facebook.com/ana.alsa.583" target="_blank">
+  <a href="https://facebook.com" target="_blank">
     <img src="https://shields.io" alt="Facebook 2" />
   </a>
   <a href="https://instagram.com" target="_blank">
@@ -29,9 +21,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com" alt="Views" />
+</p>
+
 ---
 
-### 💖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 🌸
+### 💖 About Me 🌸
 
 ```text
 🔭 I’m currently working on advanced Messenger ChatBots
@@ -43,7 +39,7 @@
 
 ---
 
-### 🛠️ 𝙼𝚢 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌欠 🧰
+### 🛠️ My Tech Stack 🧰
 
 <p align="left">
   <img src="https://shields.io" alt="JavaScript" />
@@ -55,7 +51,7 @@
 
 ---
 
-### 📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 📈
+### 📊 GitHub Stats 📈
 
 <p align="center">
   <img src="https://vercel.app" width="48%" />
